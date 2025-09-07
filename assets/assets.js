@@ -6,7 +6,7 @@ import edu_icon_dark from './edu-icon-dark.png';
 import project_icon from './project-icon.png';
 import project_icon_dark from './project-icon-dark.png';
 import vscode from './vscode.png';
-import postgresSql from './PostgresSql.png';
+import postgresSql from './PostgresSQL.png';
 import visual_studio from './Visual-Studio.png';
 import firebase from './firebase.png';
 import figma from './figma.png';
