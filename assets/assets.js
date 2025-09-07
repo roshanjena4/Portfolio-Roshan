@@ -125,5 +125,5 @@ export const infoList = [
 ];
 
 export const toolsData = [
-    assets.vscode,assets.visual_studio, assets.postgresSql, assets.firebase, assets.mongodb, assets.figma, assets.git, assets.github
+    assets.vscode,assets.visual_studio, assets.postgresSql, assets.firebase, assets.mongodb, assets.github
 ];
